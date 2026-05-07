@@ -12,7 +12,7 @@
 <img width="320" height="472" alt="image" src="https://github.com/user-attachments/assets/9e00b40c-11a7-44ff-9bd6-e2995e240a8d" /> | <img width="399" height="514" alt="image" src="https://github.com/user-attachments/assets/2e0d5255-8a00-45d0-8863-d272e8d796b8" />
 
 
- * **토익 성적 분석기**은 **Flutter / Dart** 로 작성된 모바일 어플리케이션입니다.<br>
+ * **토익 성적 분석기**는 **Flutter / Dart** 로 작성된 모바일 어플리케이션입니다.<br>
 
    외국어 학습 정보 및 분석 기능을 제공합니다.
  
