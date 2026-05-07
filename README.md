@@ -2,27 +2,25 @@
 
  ## Introduction
 
- 분포 차트 (Distribution Chart)     |  누적 차트 (Accumulation Chart)
+ 분포 차트 (Distribution Chart)     |  일정 시트 (Date Sheet)
 :-------------------------:|:-------------------------:
-<img width="320" height="463" alt="image" src="https://github.com/user-attachments/assets/811b68ce-23d0-42c0-8a54-f9f8db368304" /> | <img width="637" height="588" alt="image" src="https://github.com/user-attachments/assets/74348939-8b43-45bb-8d8f-77f30e3c8aa6" />
+<img width="320" height="463" alt="image" src="https://github.com/user-attachments/assets/811b68ce-23d0-42c0-8a54-f9f8db368304" /> | <img width="321" height="470" alt="image" src="https://github.com/user-attachments/assets/e76b1537-c7d2-45b8-9e3d-b4be7e1267ed" />
 
 
-
- 일자 선택 시트(Date Picker Sheet)       |  기록 차트 (History Sheet)
+기록 차트 (History Sheet)     | 원스토어 등록 (ONE Store)
  :------------------------:|:-------------------------:
-<img width="321" height="470" alt="image" src="https://github.com/user-attachments/assets/e76b1537-c7d2-45b8-9e3d-b4be7e1267ed" /> | <img width="320" height="472" alt="image" src="https://github.com/user-attachments/assets/9e00b40c-11a7-44ff-9bd6-e2995e240a8d" />
+<img width="320" height="472" alt="image" src="https://github.com/user-attachments/assets/9e00b40c-11a7-44ff-9bd6-e2995e240a8d" /> | <img width="428" height="633" alt="image" src="https://github.com/user-attachments/assets/94413ecd-d105-498d-8aa9-ca5d1de4b44e" />
 
 
+ * **토익 성적 분석기**은 **Flutter / Dart** 로 작성된 모바일 어플리케이션입니다.<br>
+
+   외국어 학습 정보 제공 및 계획 수립 기능을 제공합니다.
  
- * **원전 방사능 실시간 모니터링**은 **Java / Android** 로 작성된 공공 재난 안전 모바일 어플리케이션입니다.<br>
-
-   비상 경보와 같은 **미션 크리티컬**(MC) 기능의 시뮬레이션 기능을 제공합니다.
- 
-   *이 프로그램은 한국수력원자력(주)로부터 방사선량 데이터를 제공받습니다.*
+   *이 프로그램은 (주)와이비엠넷으로부터 시험 결과 데이터를 제공받습니다.*
 
  ## Funtionality
  
-> ### Monitoring
+> ### Analysis
 > * 전국 원자력발전소의 방사선량 및 안전도를 조회할 수 있다.
 > * 특정 원자력발전소에 속하는 관측소들의 방사선량을 조회할 수 있다.
 > * 새로고침하여 데이터를 최신 정보로 갱신할 수 있다.
