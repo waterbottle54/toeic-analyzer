@@ -2,14 +2,15 @@
 
  ## Introduction
 
- 분포 차트(Distribution Chart)     |  일자 선택 시트(Date Picker Sheet)
+ 분포 차트 (Distribution Chart)     |  누적 차트 (Accumulation Chart)
 :-------------------------:|:-------------------------:
-<img width="320" height="463" alt="image" src="https://github.com/user-attachments/assets/811b68ce-23d0-42c0-8a54-f9f8db368304" /> |<img width="321" height="470" alt="image" src="https://github.com/user-attachments/assets/e76b1537-c7d2-45b8-9e3d-b4be7e1267ed" />
+<img width="320" height="463" alt="image" src="https://github.com/user-attachments/assets/811b68ce-23d0-42c0-8a54-f9f8db368304" /> | <img width="637" height="588" alt="image" src="https://github.com/user-attachments/assets/74348939-8b43-45bb-8d8f-77f30e3c8aa6" />
 
 
- 기록 차트(History Sheet)       |  가상 경보 시뮬레이션 (Virtual Warning Simulation)
+
+ 일자 선택 시트(Date Picker Sheet)       |  기록 차트 (History Sheet)
  :------------------------:|:-------------------------:
-<img width="320" height="472" alt="image" src="https://github.com/user-attachments/assets/9e00b40c-11a7-44ff-9bd6-e2995e240a8d" />
+<img width="321" height="470" alt="image" src="https://github.com/user-attachments/assets/e76b1537-c7d2-45b8-9e3d-b4be7e1267ed" /> | <img width="320" height="472" alt="image" src="https://github.com/user-attachments/assets/9e00b40c-11a7-44ff-9bd6-e2995e240a8d" />
 
 
  
