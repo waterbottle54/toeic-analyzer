@@ -43,12 +43,8 @@
  * 조성원 (Sung Won Jo / David Jo)
  
      📧 waterbottle54@naver.com
-   
- ## Version History
- * **1.01** (2021.5): First Release
-   ![](https://github.com/waterbottle54/radiaton-monitor/blob/main/onestore.png)
 
  ## Acknowledgments
- * (주)한국수력원자력 (KHNP Co.,Ltd.)
- * https://www.data.go.kr/data/15001091/openapi.do#tab_layer_prcuse_exam
+ * fl_chart
+ * [https://www.data.go.kr/data/15001091/openapi.do#tab_layer_prcuse_exam](https://pub.dev/packages/fl_chart)
 
