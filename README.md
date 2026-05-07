@@ -4,8 +4,7 @@
 
  분포 차트 (Distribution Chart)     |  일정 시트 (Date Sheet)
 :-------------------------:|:-------------------------:
-<img width="321" height="479" alt="image" src="https://github.com/user-attachments/assets/5206d02b-e6bf-4091-b8fc-949ff4580ccb" />
- | <img width="321" height="470" alt="image" src="https://github.com/user-attachments/assets/e76b1537-c7d2-45b8-9e3d-b4be7e1267ed" />
+<img width="321" height="479" alt="image" src="https://github.com/user-attachments/assets/5206d02b-e6bf-4091-b8fc-949ff4580ccb" /> | <img width="321" height="470" alt="image" src="https://github.com/user-attachments/assets/e76b1537-c7d2-45b8-9e3d-b4be7e1267ed" />
 
 
 기록 차트 (History Sheet)     | 원스토어 등록 (ONE Store)
