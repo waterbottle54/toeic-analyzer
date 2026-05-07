@@ -7,9 +7,9 @@
 <img width="321" height="479" alt="image" src="https://github.com/user-attachments/assets/5206d02b-e6bf-4091-b8fc-949ff4580ccb" /> | <img width="321" height="470" alt="image" src="https://github.com/user-attachments/assets/e76b1537-c7d2-45b8-9e3d-b4be7e1267ed" />
 
 
-기록 차트 (History Sheet)     | 원스토어 등록 (ONE Store)
+기록 차트 (History Sheet)     | 원스토어 (ONE Store)
  :------------------------:|:-------------------------:
-<img width="320" height="472" alt="image" src="https://github.com/user-attachments/assets/9e00b40c-11a7-44ff-9bd6-e2995e240a8d" /> | <img width="428" height="633" alt="image" src="https://github.com/user-attachments/assets/94413ecd-d105-498d-8aa9-ca5d1de4b44e" />
+<img width="320" height="472" alt="image" src="https://github.com/user-attachments/assets/9e00b40c-11a7-44ff-9bd6-e2995e240a8d" /> | <img width="399" height="514" alt="image" src="https://github.com/user-attachments/assets/2e0d5255-8a00-45d0-8863-d272e8d796b8" />
 
 
  * **토익 성적 분석기**은 **Flutter / Dart** 로 작성된 모바일 어플리케이션입니다.<br>
