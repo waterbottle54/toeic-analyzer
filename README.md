@@ -4,8 +4,7 @@
 
  분포 차트(Distribution Chart)     |  일자 선택 시트(Date Picker Sheet)
 :-------------------------:|:-------------------------:
-<img width="320" height="463" alt="image" src="https://github.com/user-attachments/assets/811b68ce-23d0-42c0-8a54-f9f8db368304" /> |
-<img width="321" height="470" alt="image" src="https://github.com/user-attachments/assets/e76b1537-c7d2-45b8-9e3d-b4be7e1267ed" />
+<img width="320" height="463" alt="image" src="https://github.com/user-attachments/assets/811b68ce-23d0-42c0-8a54-f9f8db368304" /> |<img width="321" height="470" alt="image" src="https://github.com/user-attachments/assets/e76b1537-c7d2-45b8-9e3d-b4be7e1267ed" />
 
 
  기록 차트(History Sheet)       |  가상 경보 시뮬레이션 (Virtual Warning Simulation)
