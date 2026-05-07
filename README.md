@@ -45,6 +45,5 @@
      📧 waterbottle54@naver.com
 
  ## Acknowledgments
- * fl_chart
- * [https://www.data.go.kr/data/15001091/openapi.do#tab_layer_prcuse_exam](https://pub.dev/packages/fl_chart)
+ * fl_chart (https://pub.dev/packages/fl_chart)
 
